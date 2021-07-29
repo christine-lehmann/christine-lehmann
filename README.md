@@ -13,8 +13,7 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: I like searching/discovering/learning new things. 
 
 <!-- Github Stats -->
-![Christine's GitHub stats](https://github-readme-stats.vercel.app/api?username=christine-lehmann&show_icons=true&theme=gruvbox)
-(https://google.com)
+![Christine's GitHub stats](https://github-readme-stats.vercel.app/api?username=christine-lehmann&show_icons=true&theme=onedark)
 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
