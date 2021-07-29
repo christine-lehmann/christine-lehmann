@@ -15,6 +15,9 @@ Here are some ideas to get you started:-->
 <!-- Github Stats -->
 ![Christine's GitHub stats](https://github-readme-stats.vercel.app/api?username=christine-lehmann&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christine-lehmann&layout=compact)](https://github.com/christine-lehmann/github-readme-stats)
+
+
 ## Connect with me:
 [<img align="left" alt="codeSTACKr | Facebook" width="30px" src="https://img.icons8.com/ios-glyphs/30/4a90e2/facebook.png" />][facebook]
 [<img align="left" alt="codeSTACKr | Twitter" width="30px" src="https://img.icons8.com/color/240/000000/twitter--v1.png" />][twitter]
