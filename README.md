@@ -17,8 +17,8 @@ Here are some ideas to get you started:-->
 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://img.icons8.com/color/96/000000/twitter--v1.png" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://img.icons8.com/color/240/000000/twitter--v1.png" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/fluent/240/000000/linkedin.png" />][linkedin]
 <br />
 
 <!-- This section you create this variables that are used above -->
