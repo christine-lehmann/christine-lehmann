@@ -13,7 +13,7 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: I like searching/discovering/learning new things. 
 
 <!-- Github Stats -->
-![Christine's GitHub stats](https://github-readme-stats.vercel.app/api?username=christine-lehmann&show_icons=true&theme=radical)
+![Christine's GitHub stats](https://github-readme-stats.vercel.app/api?username=christine-lehmann&show_icons=true&theme=chartreuse-dark)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christine-lehmann)](https://github.com/christine-lehmann/github-readme-stats)-->
 
