@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 - 📚 I’m currently studying at - Eulogio "Amang" Rodriguez Institute of Science and Technology.
-- 🌱 I’m currently learning - Machine Learning and Programming Language
+- 🌱 I’m currently learning - C++, Java, Python Programming Language
 - 👯 I’m looking to collaborate with - Other developers in community.
 - 🥅 2021 Goal - Consistently making projects to enhance my programming skills. 
 - 📫 How to reach me: 📧cion.c.bscs@gmail.com
