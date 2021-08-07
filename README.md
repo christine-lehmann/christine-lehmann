@@ -20,7 +20,7 @@ Here are some ideas to get you started:-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christine-lehmann)](https://github.com/christine-lehmann/github-readme-stats)-->
 
-[Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=christine-lehmann)
+[Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=christine_cion)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christine-lehmann&layout=compact)](https://github.com/christine-lehmann/github-readme-stats)-->
 
