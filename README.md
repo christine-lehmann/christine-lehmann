@@ -16,7 +16,7 @@ Here are some ideas to get you started:-->
 ![Christine's GitHub stats](https://github-readme-stats.vercel.app/api?username=christine-lehmann&show_icons=true&theme=chartreuse-dark)
 
 
-[![Christine's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@christine_cion)](https://github.com/christine-lehmann/github-readme-stats)
+<!--[![Christine's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@christine_cion)](https://github.com/christine-lehmann/github-readme-stats)
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christine-lehmann)](https://github.com/christine-lehmann/github-readme-stats)
