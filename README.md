@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 - 📚 I’m currently studying at **Eulogio "Amang" Rodriguez Institute of Science and Technology**.
-- 🌱 I’m currently learning C++, Java, Python Programming Language
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" width="10">
 - 👯 I’m looking to collaborate with _other developers_ in Community.
 - 🥅 2021 Goal - Consistently making projects to enhance my programming skills. 
 - <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/letterbox.gif" width="20"> How to reach me: 📧cion.c.bscs@gmail.com
