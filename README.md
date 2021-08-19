@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:-->
 
-- 📚 I’m currently studying at - Eulogio "Amang" Rodriguez Institute of Science and Technology.
-- 🌱 I’m currently learning - C++, Java, Python Programming Language
-- 👯 I’m looking to collaborate with - Other developers in community.
+- 📚 I’m currently studying at **Eulogio "Amang" Rodriguez Institute of Science and Technology**.
+- 🌱 I’m currently learning C++, Java, Python Programming Language
+- 👯 I’m looking to collaborate with _other developers_ in Community.
 - 🥅 2021 Goal - Consistently making projects to enhance my programming skills. 
 - 📫 How to reach me: 📧cion.c.bscs@gmail.com
 - ⚡ Fun fact: I like searching/discovering/learning new things. 
