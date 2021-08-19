@@ -31,7 +31,7 @@ Here are some ideas to get you started:-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christine-lehmann&layout=compact)](https://github.com/christine-lehmann/github-readme-stats)-->
 
 
-## Connect with me <img src="https://raw.githubusercontent.com/milaan9/milaan9/main/Handshake.gif" width="30">
+## Connect with me <img src="https://raw.githubusercontent.com/milaan9/milaan9/main/Handshake.gif" width="50">
 [<img align="left" alt="codeSTACKr | Facebook" width="30px" src="https://img.icons8.com/ios-glyphs/30/4a90e2/facebook.png" />][facebook]
 [<img align="left" alt="codeSTACKr | Twitter" width="30px" src="https://img.icons8.com/color/240/000000/twitter--v1.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://img.icons8.com/fluent/240/000000/linkedin.png" />][linkedin]
