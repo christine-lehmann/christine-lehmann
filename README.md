@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- <img src="https://cdn2.scratch.mit.edu/get_image/gallery/3778525_170x100.png" width="30"> I’m currently studying at **Eulogio "Amang" Rodriguez Institute of Science and Technology**.
+- <img src="https://cdn2.scratch.mit.edu/get_image/gallery/3778525_170x100.png" width="25"> I’m currently studying at **Eulogio "Amang" Rodriguez Institute of Science and Technology**.
 - 🌱 Learning <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" width="70"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="55"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="51"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="63"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="55"> 
 - 🎯 Focusing on making games/projects using Python.
 - <img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="25"> I’m looking to collaborate with _other developers_ in Community.
