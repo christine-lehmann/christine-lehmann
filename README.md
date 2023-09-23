@@ -37,9 +37,9 @@ Here are some ideas to get you started:-->
 [<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://img.icons8.com/fluent/240/000000/linkedin.png" />][linkedin]
 <br />
 
-This section you create this variables that are used above 
+<!-- This section you create this variables that are used above 
 [facebook]: https://web.facebook.com/christinemae.cionii/
 [twitter]: https://twitter.com/ChristineCion
-[linkedin]: https://www.linkedin.com/in/christinecion/
+[linkedin]: https://www.linkedin.com/in/christinecion/ -->
 
  
