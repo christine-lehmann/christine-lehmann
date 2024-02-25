@@ -1,6 +1,5 @@
 # 💫 About Me:
-🎯 Focusing on enhancing my skills to land a job in IT Industry<br>👯‍♂️ I’m looking to collaborate with other developers in the Community<br>🌱 I’m currently taking Cybersecurity courses<br>⚡ Fun fact: I like searching/discovering/learning new things<br> 
-✨ I enjoy listening to music 🎧 and watching anime <img src="https://th.bing.com/th/id/R.af8fb85c71d8647342e9f7abf6573e45?rik=sq4dnj4a3K%2b1BQ&riu=http%3a%2f%2fi7.glitter-graphics.org%2fpub%2f1155%2f1155187rl6ofvu45v.gif&ehk=SDQwQuM2LxDHEMPKyyEfIqzPLt8i%2fyJXqCKkhAInx7A%3d&risl=&pid=ImgRaw&r=0" width="25">
+🎯 Focusing on enhancing my skills to land a job in IT Industry<br>👯‍♂️ I’m looking to collaborate with other developers in the Community<br>🌱 I’m currently taking Cybersecurity courses<br>⚡ Fun fact: I like searching/discovering/learning new things<br> ✨ I enjoy listening to music 🎧 and watching anime <img src="https://th.bing.com/th/id/R.af8fb85c71d8647342e9f7abf6573e45?rik=sq4dnj4a3K%2b1BQ&riu=http%3a%2f%2fi7.glitter-graphics.org%2fpub%2f1155%2f1155187rl6ofvu45v.gif&ehk=SDQwQuM2LxDHEMPKyyEfIqzPLt8i%2fyJXqCKkhAInx7A%3d&risl=&pid=ImgRaw&r=0" width="25">
 
 
 ## 🌐 Socials:
